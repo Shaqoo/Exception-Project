@@ -36,3 +36,4 @@ static void Exception()
 Exception();
 
 int m = 8;
+System.Console.WriteLine(m);
